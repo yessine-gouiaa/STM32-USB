@@ -1,0 +1,1 @@
+this applications shows how to configure STM32563 in USB device DCD mode to get most optimized throughput you can get from USBX stack and USB DRD CONTROLLER(7.5MBPS)

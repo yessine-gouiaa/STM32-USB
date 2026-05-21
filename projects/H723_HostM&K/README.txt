@@ -1,0 +1,2 @@
+this application shows how to configure STM32H723 that uses USB OTG controller and ST classic middleware as USB HID HOSt mouse and keyboard
+all detected activities ill be printed in STLINK serial monitor comport
